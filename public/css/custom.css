@@ -7,7 +7,7 @@
 
 }
 .bodyHome{
-    background-image: url("../img/back.jpg");
+    background: #0f9552;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,6 +37,17 @@ audio{
 }
 h4{
     color: white;
-    background: #0f9552;
+    background-color: #672a8f;
+   
     padding: 20px;
+}
+
+.show{
+    background: #0f9552;
+}
+
+.forward{
+    float: right;
+    font-size: 30px;
+    font-weight: bolder;
 }
